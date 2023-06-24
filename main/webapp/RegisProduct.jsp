@@ -113,7 +113,7 @@
                 <button type="submit">등록하기</button>
             </form>
         </div>
-       <!-- <div class="box">
+       <div class="box">
             <form action="fileUpload_do.jsp" method="post" enctype="multipart/form-data">
                 <img src="images/noimage.jpg" alt="Example Image">
                 <h3>상품 등록</h3>
@@ -144,7 +144,7 @@
                 <p><input type="file" name="upload" id="upload" onchange="uploadImage(event)"></p>
                 <button type="submit">등록하기</button>
             </form>
-        </div> -->
+        </div>
     </div>
 </body>
 <script>
